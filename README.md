@@ -14,11 +14,21 @@
 
 <img width="2107" height="1482" alt="Hospital Discharge Summary" src="https://github.com/user-attachments/assets/af8986da-10d9-42fd-ad99-6b58c8aeee7b" />
 
-## ⭐ Step by step Process
+## ⭐ Step by Step Process
 
 1. Import data in SQL, clean the duplicate rows and make a view table
 <img width="1306" height="735" alt="1  Clean Data" src="https://github.com/user-attachments/assets/879cccd2-0b80-4ae2-9968-54182c86ccd9" />
 
-2. 
+2. Find the significant numbers
+<img width="1684" height="897" alt="2  ExploreDimension" src="https://github.com/user-attachments/assets/f7c95046-2a02-4093-9a19-cdbe820f1040" />
+
+3. Find the distribution of each factor
+<img width="1394" height="951" alt="3 Distribution" src="https://github.com/user-attachments/assets/dcc952ae-5fd7-474b-9f83-f22a14eae6cd" />
+
+4. Visualize in Power BI
+<img width="1895" height="969" alt="powerbireview" src="https://github.com/user-attachments/assets/d208d8ad-eb69-4fd1-abae-bde6b640821d" />
+
+
+
 
 
