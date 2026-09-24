@@ -10,4 +10,8 @@
 
 **Results:** The analysis shows 13K patient discharges with an average stay of 7 days. Most discharged patients were adults, male, and from urban areas. Outpatient admissions accounted for the majority of discharges, while discharge volumes remained relatively stable throughout the week, with lower activity on Sunday.
 
+## 📄 Full Report
+
+[View the full Hospital Discharge Report (PDF)](file:///C:/Users/hanan/AppData/Local/Temp/Power%20BI%20Desktop/print-job-4312cc6f-4009-42a2-a01e-b4dc2425f162/Hospital%20Discharge%20Summary.pdf)
+
 
