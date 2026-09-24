@@ -1,4 +1,4 @@
-# Hospital-Discharge-Project
+# 📊 Hospital-Discharge-Project
 
 **Goal:** This dashboard provides an overview of hospital discharges, highlighting patient volume, average daily discharge rates, length of stay, and discharge patterns by age, gender, day, rural status, and admission type. It helps identify key trends and better understand patient discharge patterns.
 
@@ -12,6 +12,13 @@
 
 ## 📄 Full Report
 
-[View the full Hospital Discharge Report (PDF)](file:///C:/Users/hanan/AppData/Local/Temp/Power%20BI%20Desktop/print-job-4312cc6f-4009-42a2-a01e-b4dc2425f162/Hospital%20Discharge%20Summary.pdf)
+<img width="2107" height="1482" alt="Hospital Discharge Summary" src="https://github.com/user-attachments/assets/af8986da-10d9-42fd-ad99-6b58c8aeee7b" />
+
+## ⭐ Step by step Process
+
+1. Import data in SQL, clean the duplicate rows and make a view table
+<img width="1306" height="735" alt="1  Clean Data" src="https://github.com/user-attachments/assets/879cccd2-0b80-4ae2-9968-54182c86ccd9" />
+
+2. 
 
 
